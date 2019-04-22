@@ -1,7 +1,7 @@
 // Write your solution here!
 
 const append = ["Milo", "Otis", "Garfield"]
-append.unshift('')
+append.pop('Odie')
 
 const prepend = ["Milo", "Otis", "Garfield"]
 
