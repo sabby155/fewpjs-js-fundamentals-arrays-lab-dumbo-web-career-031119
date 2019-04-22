@@ -1,10 +1,10 @@
 // Write your solution here!
 
-const append 
+const append = ["Milo", "Otis", "Garfield"]
+append.unshift('')
 
+const prepend = ["Milo", "Otis", "Garfield"]
 
-const prepend
+const removeLast = ["Milo", "Otis", "Garfield"]
 
-const removeLast
-
-const removeFirst = 
+const removeFirst = ["Milo", "Otis", "Garfield"]
